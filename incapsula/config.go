@@ -2,7 +2,7 @@ package incapsula
 
 import (
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 )
 
