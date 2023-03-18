@@ -2,7 +2,7 @@ package incapsula
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"net/http/httptest"
 	"strings"
